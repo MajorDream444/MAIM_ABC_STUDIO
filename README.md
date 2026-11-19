@@ -1,3 +1,5 @@
+[![Edit on Hanzo](https://hanzo.ai/badges/edit-on-hanzo.svg)](https://hanzo.app/dev?repo=https%3A%2F%2Fgithub.com%2FMajorDream444%2FMAIM_ABC_STUDIO)
+
 # MAIM ABC Studio: motion campaign source
 
 This repo holds the code for six coordinated vertical motion promos (1080×1920, 30 fps) for **Major Artificial Intelligence Mindset (MAIM)** and the **MAIM Academy Founding Cohort**. They are built with Remotion, React and three.js. All text is composited in code, and all sound is synthesised in code.
